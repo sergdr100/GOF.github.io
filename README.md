@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>lol</title>
 </head>
 <body>
     <h1 align=center>Домашняя страница разработчика web-приложений
